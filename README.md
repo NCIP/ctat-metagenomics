@@ -1,0 +1,1 @@
+For foreign transcript detection, we leverage Centrifuge and Kraken, leveraging RNA-Seq reads and Trinity-reconstructed transcripts. Our efforts here are being carried out in collaboration with the group of Steven Salzberg at JHU.
