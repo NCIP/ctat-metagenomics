@@ -8,7 +8,6 @@ ENV PATH /root/miniconda2/bin:$PATH
 RUN conda config --add channels r
 RUN conda config --add channels bioconda
 RUN conda list
-ADD . /data
-WORKDIR /data
 RUN conda install -y ctat-metagenomics
+WORKDIR /root/miniconda2/bin/
 #RUN cp -r /root/miniconda2/pkgs/ctat-metagenomics-1.0.1-py27_1/share/ctat-metagenomics-1.0.1-1/* /root/miniconda2/bin/
