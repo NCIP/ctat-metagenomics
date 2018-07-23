@@ -1,7 +1,0 @@
-data/test-data/centrifuge/SRR2219890_1_adj_20k_reads.fastq.d
-data/test-data/centrifuge/SRR2219890_1_20k_reads.kraken_style_report.txt.i
-data/tool-data/ctat_centrifuge_indexes.loc.sample.i
-data/ctat_metagenomics.xml.i
-data/test-data/centrifuge/SRR2219890_1_adj_20k_reads.fastq.i
-data/tool_data_table_conf.xml.sample.i
-data/test-data/centrifuge/SRR2219890_1_20k_reads.classification.report.txt.i
